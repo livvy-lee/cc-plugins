@@ -6,10 +6,10 @@ Curated collection of AI-powered development tools for [Claude Code](https://cla
 
 ```bash
 # Marketplace 추가
-/plugin marketplace add livvy-lee/claude-code-plugins
+/plugin marketplace add livvy-lee/cc-plugins
 
 # 원하는 plugin 설치
-/plugin install ai-code-review@claude-code-plugins
+/plugin install ai-code-review@cc-plugins
 ```
 
 ---
