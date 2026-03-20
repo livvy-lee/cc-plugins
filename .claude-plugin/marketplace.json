@@ -1,0 +1,23 @@
+{
+  "name": "claude-code-plugins",
+  "owner": {
+    "name": "livvy-lee"
+  },
+  "metadata": {
+    "description": "Claude Code plugin marketplace — curated collection of AI-powered development tools"
+  },
+  "plugins": [
+    {
+      "name": "ai-code-review",
+      "source": "./plugins/ai-code-review",
+      "description": "Multi-agent AI code review pipeline with /review and /pr-comment commands",
+      "version": "1.0.0",
+      "author": {
+        "name": "livvy-lee"
+      },
+      "license": "MIT",
+      "keywords": ["code-review", "ai-review", "pr-comment", "pn-priority"],
+      "category": "code-quality"
+    }
+  ]
+}

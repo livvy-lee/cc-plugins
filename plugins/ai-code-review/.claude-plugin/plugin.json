@@ -1,0 +1,10 @@
+{
+  "name": "ai-code-review",
+  "version": "1.0.0",
+  "description": "Multi-agent AI code review pipeline — 7 specialized reviewers, Pn priority system, evidence-based findings, GitHub PR inline comments",
+  "author": {
+    "name": "livvy-lee"
+  },
+  "license": "MIT",
+  "keywords": ["code-review", "ai-review", "pr-comment", "pn-priority", "multi-agent"]
+}
